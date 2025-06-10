@@ -4,7 +4,6 @@
   
 ### **🔥 Languages and Technologies:**  
 
-
 [![My Skills](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
@@ -28,23 +27,4 @@
 <img src="https://github.com/user-attachments/assets/b2f6b4a9-8fac-483a-a9ba-af644c75dffa" alt="instagram" width="40" height="40">
 </a>
 
-
-
-
-
 <p>Let’s build something awesome together!</p>
-
-<!--
-**1002manthan/1002manthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
