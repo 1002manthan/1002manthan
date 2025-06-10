@@ -19,14 +19,18 @@
 ### 🔗 Let's Connect: <br>
 
 <a href="mailto:manthansuthar789@gmail.com">
-<img src="https://github.com/user-attachments/assets/eb75ac6d-e1aa-42ff-99c2-f2b443f71379" alt="gmail" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/17b86a76-5394-44c5-ae65-ba574e994d66" alt="gmail" width="40" height="40">
 </a>
 <a href="https://www.linkedin.com/in/manthan-suthar-9138002a3">
-<img src="https://github.com/user-attachments/assets/e61f7dc4-1ebd-4fe1-97c6-865fd8c6996d" alt="linkedin" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/0a4932b4-520c-4c7d-b66e-79c25afbedb7" alt="linkedin" width="40" height="40">
 </a>
 <a href="https://www.instagram.com/justttt.manthan?igsh=MWh3aXZmOHRmbG16NQ==">
-<img src="https://github.com/user-attachments/assets/72690973-83ce-4c0b-8d73-e6a127e63362" alt="instagram" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/b2f6b4a9-8fac-483a-a9ba-af644c75dffa" alt="instagram" width="40" height="40">
 </a>
+
+
+
+
 
 <p>Let’s build something awesome together!</p>
 
