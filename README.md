@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/manthan-suthar-9138002a3">
 <img src="https://github.com/user-attachments/assets/0a4932b4-520c-4c7d-b66e-79c25afbedb7" alt="linkedin" width="40" height="40">
 </a>
-<a href="https://www.instagram.com/justttt.manthan?igsh=MWh3aXZmOHRmbG16NQ==">
+<a href="https://www.instagram.com/justttt.manthan">
 <img src="https://github.com/user-attachments/assets/b2f6b4a9-8fac-483a-a9ba-af644c75dffa" alt="instagram" width="40" height="40">
 </a>
 
