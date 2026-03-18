@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Manthan Suthar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=540&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;App+Developer+%F0%9F%93%B1;Always+Building+Something+Cool+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=540&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;App+Developer+%F0%9F%93%B1;Always+Building+Something+Cool+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
